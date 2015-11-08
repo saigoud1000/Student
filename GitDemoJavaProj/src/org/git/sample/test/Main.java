@@ -9,6 +9,7 @@ public class Main {
 		snack.funTime();
 		System.out.println("Some fun after snacks fun.");
 		System.out.println("sai changes");
+		System.out.println("");
 	}
 	
 }
