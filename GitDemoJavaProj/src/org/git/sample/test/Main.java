@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("Hello, this is a test.");
 		System.out.println("git test with eclipse plugin");
 		snack.funTime();
+		System.out.println("Some fun after snacks fun.");
 	}
 	
 }
