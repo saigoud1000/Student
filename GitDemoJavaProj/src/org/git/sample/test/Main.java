@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("Some fun after snacks fun.");
 		System.out.println("sai changes");
 		System.out.println("");
+		System.out.println("sum fun no fun");
 	}
 	
 }
